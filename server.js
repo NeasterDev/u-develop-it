@@ -83,7 +83,7 @@ app.delete('/api/candidate/:id', (req, res) => {
         });
       }
     });
-  });
+});
 
 
   // Create a candidate
